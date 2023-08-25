@@ -464,7 +464,7 @@ header {
   margin-bottom: 10px;
 }
 .f-img-2 {
-  background: url(../images/image9.jpg);
+  background: url(./images/image9.jpg);
   background-position: center;
   background-size: cover;
 }
